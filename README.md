@@ -38,4 +38,4 @@ The main goals of this project are to:
 * Gain experience with Altium Designer
 * Use LTspice and MATLAB/Simulink where useful
 * Learn power-electronics PCB layout and grounding
-* Develop current, voltage, and temperat
+* Develop current, voltage, and temperature
