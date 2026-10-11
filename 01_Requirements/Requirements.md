@@ -4,7 +4,7 @@
 - Input voltage: 12–24 VDC
 - Continuous phase current: 5 A
 - Peak phase current: 10 A short-duration
-- Motor power target: 50–120 W
+- Motor power target: At least 26 W for the motor selected but compatible up to 100 W.
 
 ## Motor Control
 - Three-phase BLDC motor
@@ -24,8 +24,6 @@
 
 ## Communications
 - CAN/CAN-FD
-- UART debug/telemetry
-- SWD programming/debug
 
 ## Protection
 - Hardware overcurrent protection
@@ -36,10 +34,4 @@
 ## PCB
 - 4-layer PCB
 - Designed for low-noise current sensing
-- EMC-conscious layout
 - Accessible test points for bring-up
-
-## Future / Not Required for Rev A
-- FOC
-- Sensorless control
-- Regenerative braking
