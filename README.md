@@ -11,7 +11,7 @@ The goal is to develop experience in power electronics, PCB design, embedded mot
 * 12–24 VDC input
 * Approximately 5 A continuous phase current
 * Approximately 10 A short-duration peak phase current
-* 50–120 W BLDC motor target
+* 20–100 W BLDC motor target
 * STM32G431-class microcontroller
 * DRV8353-class three-phase gate driver
 * Six external 60 V N-channel MOSFETs
@@ -22,8 +22,6 @@ The goal is to develop experience in power electronics, PCB design, embedded mot
 * DC bus voltage sensing
 * Power-stage temperature sensing
 * CAN/CAN-FD communication
-* UART telemetry/debug
-* SWD programming/debug
 * 4-layer PCB
 * Hardware overcurrent, undervoltage, gate-driver fault, and thermal protection
 
@@ -37,3 +35,4 @@ The main goals of this project are to:
 * Use LTspice and MATLAB/Simulink where useful
 * Learn power-electronics PCB layout and grounding
 * Develop current, voltage, and temperature
+* Have a finished product by end of Fall semester
