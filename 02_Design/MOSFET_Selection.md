@@ -1,4 +1,4 @@
-\# Preliminary Rev A MOSFET: Infineon BSC066N06NS
+# Preliminary Rev A MOSFET: Infineon BSC066N06NS
 
 Selected this 60V N-Channel power MOSFET for the inverter stage because of its balanced parameters:
 
