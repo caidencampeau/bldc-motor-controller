@@ -1,6 +1,6 @@
 # Preliminary Rev A MOSFET: Infineon BSC066N06NS
 
-Selected this 60V N-Channel power MOSFET for the inverter stage because of its balanced parameters:
+Selected this 60V N-Channel power MOSFET for the inverter stage because of its balanced parameters for conduction loss and gate charge:
 
 (https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsc066n06ns-datasheet-en.pdf)
 
