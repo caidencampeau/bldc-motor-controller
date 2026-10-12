@@ -2,7 +2,7 @@
 
 Selected this 60V N-Channel power MOSFET for the inverter stage because of its balanced parameters:
 
-
+(https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsc066n06ns-datasheet-en.pdf)
 
 VDS 60 V
 
