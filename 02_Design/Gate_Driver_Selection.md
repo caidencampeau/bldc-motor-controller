@@ -1,8 +1,8 @@
-\# Preliminary Gate Driver Selection: Texas Instruments DRV8323S
+# Preliminary Gate Driver Selection: Texas Instruments DRV8323S
 
 
 
-\## System Requirements
+## System Requirements
 
 * DC bus : 12-24 V
 * Three half bridges / six N-channel MOSFETs
@@ -17,7 +17,7 @@ Thus I chose the device below to match all requirements for implementation on th
 
 
 
-\*\*Texas Instruments DRV8323S\*\*
+**Texas Instruments DRV8323S**
 
 (https://www.ti.com/lit/ds/symlink/drv8323.pdf?ts=1791971296279)
 
