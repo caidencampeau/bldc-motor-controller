@@ -40,7 +40,7 @@
 
 
 
-![Rev A Power Stage - Work in Progress](Exports/03_Hardware/Power_Stage_Sch_10-17-26.pdf)
+![Rev A Power Stage - Work in Progress](Power_Stage_Sch_10-17-26.pdf)
 
 
 
