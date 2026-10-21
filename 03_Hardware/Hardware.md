@@ -22,7 +22,7 @@
 
 - [x] SHA/SHB/SHC connected to phase nodes
 
-- [ ] DRV8323 support capacitors
+- [x] DRV8323 support capacitors
 
 - [ ] Current shunts
 
@@ -40,7 +40,7 @@
 
 
 
-![Rev A Power Stage - Work in Progress](Power_Stage_Sch_10-17-26.pdf)
+![Rev A Power Stage - Work in Progress](Power_Stage_Sch_10-21-26.pdf)
 
 
 
